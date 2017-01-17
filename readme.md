@@ -1,7 +1,7 @@
 # Rave Payment Forms
 
  - **Contributors:** bosunolanrewaju
- - **Tags:** flutterwave, rave, payment form, payment gateway, bank account, credit card, debit card, nigeria, kenya, international, mastercard, visa
+ - **Tags:** rave, payment form, payment gateway, bank account, credit card, debit card, nigeria, kenya, international, mastercard, visa
  - **Requires at least:** 4.4
  - **Tested up to:** 4.6
  - **Stable tag:** 0.0.1
